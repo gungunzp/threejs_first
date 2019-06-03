@@ -1,0 +1,17 @@
+# dependencies
+node_modules/*
+package-lock.json
+
+# code editor files
+.idea/
+.vscode/
+
+# mac
+*._*
+.DS_Store
+
+# windows
+RemoteSystemsTempFiles
+Thumbs.db
+
+######### dist/
